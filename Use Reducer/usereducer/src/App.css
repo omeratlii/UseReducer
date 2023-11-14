@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+.actionButton {
+  width: 100px;
+  height: 36px;
+  background-color: mediumvioletred;
+  color: white;
+  border: none;
+  border-radius: 30px;
+  font-size: 14px;
+  margin-right: 10px;
+}
+
+.numberDiv {
+  padding: 20px;
+}
